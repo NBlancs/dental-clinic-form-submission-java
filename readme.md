@@ -8,7 +8,7 @@
 #### --> IDE: ApacheNetbeans 20
 
 ## This is what the application looks like.
-## Note: Text or buttons might be missing. This is because the images here are to be used for background purposes only. When you run the application, there should be no problem whatsoever.
+## Note: Text or buttons might be missing. This is because the images here are used for background purposes only. When you run the application, there should be no problem whatsoever.
 
 #### Login Frame for Patients
 <img src="src\dentalclinic-bg-frms\login-frm-patient.png" alt="Alt Text">
