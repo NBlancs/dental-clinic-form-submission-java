@@ -2,7 +2,7 @@
 
 #### Note: To run it make sure that XAMPP is running in the background Apache and MySQL should be running. Also make sure that you import the database located at the db folder.
 
-#### --> Programming Language: Java
+#### --> Programming Language: Java (Maven)
 #### --> Database: XAMPP (PhpMyAdmin)
 #### --> UI/UX Design: Figma
 #### --> IDE: ApacheNetbeans 20
