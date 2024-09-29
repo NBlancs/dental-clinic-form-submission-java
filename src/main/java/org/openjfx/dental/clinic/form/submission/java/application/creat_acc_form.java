@@ -144,7 +144,7 @@ public class creat_acc_form extends javax.swing.JFrame {
             return;
         }
         
-        if (passwordinput != confirmpasswordinput){
+        if (!passwordinput.equals(confirmpasswordinput)){
             JOptionPane.showMessageDialog(this, "Password Doesn't Match", "Dialog", JOptionPane.ERROR_MESSAGE);
             return;
         } else {
